@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs, this is eaited via github/webhooks "
+  message: "Welcome to EazyBank accounts related QA APIs /webhooks "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
